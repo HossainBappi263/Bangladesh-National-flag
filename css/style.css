@@ -20,3 +20,7 @@
     transform: translate(-50%,-50%);
     position: absolute;
 }
+body h2{
+    text-align: center;
+    color: burlywood;
+}
